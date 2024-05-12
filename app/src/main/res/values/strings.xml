@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Taskify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">Add Note.</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="enter_the_task_titile">enter the task titile</string>
+    <string name="enter_the_task_description">enter the task description</string>
+    <string name="edit_task_details">Edit Task Details..</string>
+    <string name="description">Description</string>
+    <string name="task_title">Task Title</string>
+    <string name="welcome_task_minder">Welcome Task Minder</string>
+<!--    <string name="discription">You're all set to begin your journey with Taskify! Start by creating your first task and experience the power of efficient task management at your fingertips.</string>-->
+    <string name="get_start">Get Start</string>
+    <string name="enter_your_task_name">Enter Your Task Name</string>
+</resources>
